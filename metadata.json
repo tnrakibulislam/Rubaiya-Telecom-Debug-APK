@@ -1,0 +1,6 @@
+{
+  "name": "রুবাইয়া টেলিকম",
+  "description": "সহজে রাখুন বাকির হিসাব এবং দ্রুত করুন ট্রানজ্যাকশন এন্ট্রি।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
